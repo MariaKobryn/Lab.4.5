@@ -1,0 +1,11 @@
+﻿  UnitTest4.5.cpp
+C:\Users\Maria\source\repos\Lab_4.5\Lab_4.5\Time.cpp(136,90): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maria\source\repos\Lab_4.5\Lab_4.5\Time.cpp(137,102): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maria\source\repos\Lab_4.5\Lab_4.5\Time.cpp(138,102): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maria\source\repos\Lab_4.5\Lab_4.5\Time.cpp(135,6): warning C4101: 'ostatok': unreferenced local variable
+C:\Users\Maria\source\repos\Lab_4.5\Lab_4.5\Time.cpp(155,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maria\source\repos\Lab_4.5\Lab_4.5\Time.cpp(156,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maria\source\repos\Lab_4.5\Lab_4.5\Time.cpp(157,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Maria\source\repos\Lab_4.5\Lab_4.5\Time.cpp(154,6): warning C4101: 'ostatok': unreferenced local variable
+C:\Users\Maria\source\repos\Lab_4.5\Lab_4.5\Time.cpp(99): warning C4715: 'Time::Сomparison': not all control paths return a value
+  UnitTest4.5.vcxproj -> C:\Users\Maria\source\repos\Lab_4.5\Debug\UnitTest4.5.dll
